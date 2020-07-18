@@ -42,3 +42,7 @@ body {
  header {
     text-align: center;
  }
+
+ #contactus {
+    float: right;
+ }
