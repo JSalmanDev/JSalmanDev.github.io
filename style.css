@@ -62,3 +62,19 @@ body {
     font-size: 15px;
     text-align: center;
   }
+
+  .grid-title {
+    background-color: #17408B;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  #footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
